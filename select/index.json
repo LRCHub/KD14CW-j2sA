@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "窓を開けて",
+  "base_artist": "CIEL",
+  "createdAt": "2026-01-13T09:54:24.096006Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "窓を開けて",
+      "artist": "CIEL",
+      "has_synced": true,
+      "path": "select/01_窓を開けて_CIEL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "窓を開けて (打开窗户)",
+      "artist": "CIEL",
+      "has_synced": true,
+      "path": "select/02_窓を開けて_(打开窗户)_CIEL.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "窓を開けて",
+      "artist": "CIEL",
+      "has_synced": true,
+      "path": "select/03_窓を開けて_CIEL.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "窓を開けて - Open the window",
+      "artist": "CIEL",
+      "has_synced": false,
+      "path": "select/04_窓を開けて_-_Open_the_window_CIEL.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "窓を開けて",
+      "artist": "CIEL",
+      "has_synced": false,
+      "path": "select/pl_01_窓を開けて_CIEL.txt"
+    }
+  ]
+}
